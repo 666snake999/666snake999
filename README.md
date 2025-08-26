@@ -16,6 +16,8 @@
   <img width="100" height="100" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img width="110" height="110" alt="bash" src="https://github.com/user-attachments/assets/1aa88963-5e21-4734-a64e-4388a7de5aad" />
   <img width="110" height="110" alt="c" src="https://github.com/user-attachments/assets/28aaa84e-39aa-41c8-a235-04da71d28614" />
+  <img width="100" height="120" alt="image" src="https://github.com/user-attachments/assets/c9737d08-4067-4d35-95a0-725e1a2197a2" />
+
 
 </div>
 
